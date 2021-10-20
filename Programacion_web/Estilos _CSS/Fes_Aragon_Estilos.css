@@ -1,0 +1,55 @@
+body {
+  background-color: red;
+  font-family: sans-serif;
+  padding: 5em;
+}
+
+.fondoBlanco {
+  background-color: white;
+}
+
+.fondoAzul {
+  background-color: aqua;
+}
+
+.fondoNegro {
+  background-color: black;
+}
+
+.textoUno {
+  text-align: center;
+  font-size: 70px;
+  color: darkgray;
+}
+
+.textoDos {
+  font-size: 16px;
+  color: whitesmoke;
+  text-align: left;
+}
+
+.textoTres {
+  font-size: 14px;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.textoCuatro {
+  font-size: 16px;
+  text-align: left;
+  color: whitesmoke;
+}
+
+.imagenEstilo {
+  width: 300px;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.bordeBlanco {
+  border: 20px solid whitesmoke;
+  border-radius: 20px;
+}
