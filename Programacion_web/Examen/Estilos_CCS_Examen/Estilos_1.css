@@ -1,0 +1,31 @@
+.colorbody {
+  background-color: aquamarine;
+}
+.color1 {
+  background-color: greenyellow;
+}
+.color2 {
+  background-color: red;
+}
+.color {
+  background-color: purple;
+}
+.borde {
+  border: 5px outset white;
+}
+.letra {
+  color: white;
+}
+.tama1 {
+  width: 100%;
+}
+.tama2 {
+  width: 200px;
+}
+.tama3 {
+  width: 1200px;
+}
+.tama4 {
+  width: 400px;
+  height: 550px;
+}
